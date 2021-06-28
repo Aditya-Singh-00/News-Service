@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">News</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="source">SOURCE</string>
+    <string name="title">TITLE</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="published_at">PUBLISHED AT</string>
+    <string name="fab_to_add_article_to_favorites">FAB to add article to Favorites</string>
+    <string name="search_topic">Search topic ...</string>
+    <string name="breaking_news">Breaking News</string>
+    <string name="saved_news">Saved News</string>
+    <string name="search">Search</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="retry">Retry</string>
+    <string name="toggle_theme">Toggle theme</string>
+    <string name="about_u2794">About ➔</string>
+    <string name="saved_articles_will_be_displayed_here">Saved articles will be displayed here</string>
+</resources>
